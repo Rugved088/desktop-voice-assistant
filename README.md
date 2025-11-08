@@ -32,7 +32,7 @@ A Python‑based voice assistant for **Windows** that can greet you, search Wiki
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/THEBHARAT08/desktop-voice-assistant.git
+   git clone https://github.com/Rugved088/desktop-voice-assistant.git
    cd desktop-voice-assistant
    ```
 
